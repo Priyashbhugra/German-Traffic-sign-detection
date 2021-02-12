@@ -1,0 +1,8 @@
+.idea
+.vscode
+.~lock.*
+*.code-workspace
+.vs
+RetinanetModels/
+results/
+GTSDB/
